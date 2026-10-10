@@ -1,6 +1,6 @@
 {
-  "version": "4.40",
-  "versionCode": 20261060,
+  "version": "4.41",
+  "versionCode": 20261061,
   "apkUrl": "https://github.com/Ayham19877/baby365-updates/raw/main/Baby365.apk",
-  "notes": "🎬 الفيديو ما يتجاوز مدة الصوت أبداً (حد صارم)"
+  "notes": "🎬 إصلاح مدة PCM الخاطئة — يعتمد على مدة الملف الأصلي"
 }
