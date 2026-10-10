@@ -1,6 +1,6 @@
 {
-  "version": "4.39",
-  "versionCode": 20261059,
+  "version": "4.40",
+  "versionCode": 20261060,
   "apkUrl": "https://github.com/Ayham19877/baby365-updates/raw/main/Baby365.apk",
-  "notes": "🎬 الفيديو بطول الصوت تلقائياً (الصور تتكرر) + إلغاء القص + إصلاح عرض النسخة"
+  "notes": "🎬 الفيديو ما يتجاوز مدة الصوت أبداً (حد صارم)"
 }
