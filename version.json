@@ -1,6 +1,6 @@
 {
-  "version": "4.43",
-  "versionCode": 20261063,
+  "version": "4.44",
+  "versionCode": 20261064,
   "apkUrl": "https://github.com/Ayham19877/baby365-updates/raw/main/Baby365.apk",
-  "notes": "🎬 مدة مسار الصوت الفعلية (بدل بيانات الحاوية الغلط)"
+  "notes": "🎬 قياس المدة الحقيقية بفك الصوت فعلياً (أدق طريقة)"
 }
