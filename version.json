@@ -1,6 +1,6 @@
 {
-  "version": "4.42",
-  "versionCode": 20261062,
+  "version": "4.43",
+  "versionCode": 20261063,
   "apkUrl": "https://github.com/Ayham19877/baby365-updates/raw/main/Baby365.apk",
-  "notes": "🎬 تيك توك: استخدام الفيديو بدل الملف الصوتي (المدة الصحيحة)"
+  "notes": "🎬 مدة مسار الصوت الفعلية (بدل بيانات الحاوية الغلط)"
 }
