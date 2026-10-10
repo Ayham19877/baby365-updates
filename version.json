@@ -1,6 +1,6 @@
 {
-  "version": "3.3",
-  "versionCode": 20261015,
+  "version": "3.4",
+  "versionCode": 20261016,
   "apkUrl": "https://github.com/Ayham19877/baby365-updates/raw/main/Baby365.apk",
-  "notes": "التحديث أونلاين صار من داخل التطبيق: تحميل + تثبيت مباشر ⬇️ | إصلاح حفظ صورة الشهر 💾"
+  "notes": "إصلاح جذري لحفظ صورة الشهر 💾 — الصورة المقصوصة صارت data URL فما عاد تمنع الحفظ"
 }
